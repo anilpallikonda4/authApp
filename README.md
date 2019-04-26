@@ -3,6 +3,7 @@
 Its a FED react authentication application.
 
 npm install
+
 npm start
 
 It will redirect to login page where you can find register page also.
